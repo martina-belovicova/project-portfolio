@@ -38,42 +38,42 @@ const content = {
       {
         title: "P2P Automation & AI Invoice Processing Transformation",
         category: "Finanční transformace & AI",
-        status: "Fáze 1 dokončena · Roadmapa pokračuje",
+        status: "Project Leadership",
         period: "2025–2027",
         role: "Transformation lead / Business owner",
         summary: "Modernizace a automatizace zpracování dodavatelských faktur od výměny OCR řešení přes datové validace až po roadmapu dalších AI a automatizačních iniciativ.",
-        contribution: ["Analýza dat z reportingu a identifikace limitů původního OCR řešení", "Rozhodnutí o výměně OCR dodavatele a příprava business case", "Výběr technologie a koordinace implementace nového AI OCR řešení", "Definování akceptačních kritérií, UAT scénářů a promptingu podle specifik dodavatelů", "Návrh validací DIČ, IČO, bankovních účtů, dodavatelských dat a fraud-control scénářů", "Definování dalších fází P2P automatizace a cílových metrik"],
-        impact: "Nové AI OCR řešení bylo dodáno v termínu a v rámci plánovaného rozpočtu jako nezbytný první krok širší P2P transformace. Vytvořená roadmapa navazujících AI a automatizačních iniciativ umožňuje pokračovat ve zvyšování kvality dat a míry automatizovaného zpracování faktur.",
-        skills: ["P2P", "AI/OCR", "Finance transformation", "Business analysis", "UAT", "Data validation", "Vendor management", "Roadmapping"], featured: true
+        contribution: ["Analýza dat z reportingu a identifikace limitů původního OCR řešení", "Rozhodnutí o výměně OCR dodavatele a příprava business case", "Výběr technologie a projektové řízení implementace, včetně koordinace dodavatele a interních stakeholderů", "Definování akceptačních kritérií, UAT scénářů a promptingu podle specifik dodavatelů", "Návrh validací DIČ, IČO, bankovních účtů, dodavatelských dat a fraud-control scénářů", "Definování dalších fází P2P automatizace a cílových metrik"],
+        impact: "Úspěšné nasazení nového AI OCR řešení bylo nezbytným prvním krokem pro širší P2P transformaci. Vytvořená roadmapa navazujících AI a automatizačních iniciativ umožňuje pokračovat ve zvyšování kvality dat a míry automatizovaného zpracování faktur.",
+        skills: ["P2P", "AI/OCR", "Finance transformation", "Business analysis", "UAT", "Data validation", "Vendor management", "Project management", "Roadmapping"], featured: true
       },
       {
         title: "Cash Flow & Order-to-Cash Transformation",
         category: "Finanční transformace",
-        status: "Dokončeno",
-        period: "Předchozí společnost",
+        status: "Process Leadership",
+        period: "2023",
         role: "O2C process lead / Business analyst",
         summary: "Redesign O2C procesu vedoucí ke zlepšení cash flow, zrychlení inkasa pohledávek a zkrácení období externího financování.",
-        contribution: ["End-to-end analýza O2C procesu a příčin faktur po splatnosti", "Získání zpětné vazby od problémových zákazníků a identifikace interních překážek", "Nastavení včasného zasílání faktur včetně povinných příloh", "Redesign spolupráce mezi účtárnou a Accounts Receivable", "Návrh segmentované collections matice podle zákazníka a platebního chování", "Automatizace upomínek v Power Automate", "Power BI reporting platební disciplíny, likvidity a cash-flow výhledu"],
-        impact: "Zákazníci dostávali faktury a potřebnou dokumentaci včas, což zlepšilo platební disciplínu i obchodní vztahy. Silnější cash flow umožnil společnosti splatit úvěr o několik měsíců dříve a snížit úrokové náklady.",
+        contribution: ["End-to-end analýza O2C procesu a příčin faktur po splatnosti", "Získání zpětné vazby od problémových zákazníků a identifikace interních překážek", "Redesign spolupráce mezi účtárnou a Accounts Receivable", "Návrh segmentované collections matice podle zákazníka a platebního chování", "Automatizace upomínek pomocí Power Automate", "Power BI reporting platební disciplíny, likvidity a cash-flow výhledu"],
+        impact: "Změna procesu vystavování faktur a zasílání potřebné dokumentace přispěla ke zlepšení platební disciplíny i obchodních vztahů. Díky silnějšímu cash flow mohla společnost změnit přístup k externímu financování a snížit úrokové náklady.",
         skills: ["O2C", "Accounts Receivable", "Cash flow", "Collections", "Power Automate", "Power BI", "Process improvement", "Customer experience"], featured: true
       },
       {
         title: "Global Balance Sheet Reconciliation Platform",
         category: "Finanční systémy",
-        status: "Dokončeno",
-        period: "Předchozí společnost",
-        role: "Finance business lead / Process designer",
+        status: "Business Cooperation",
+        period: "2021-2022",
+        role: "Controlling business analyst",
         summary: "Vývoj a implementace skupinové platformy pro řízení čtvrtletních rekonciliací napříč osmi zeměmi a několika ERP systémy.",
-        contribution: ["Návrh workflow pro přípravu, review a schvalování rozvahových rekonciliací", "Definování business požadavků ve spolupráci s Data týmem a externími vývojáři", "Koordinace testování a User Acceptance Testing", "Komunikace s Reviewery a Approvery v jednotlivých entitách", "Příprava manuálů a uživatelských školení", "Post-production support, správa přístupů a monitoring čtvrtletního progresu"],
-        impact: "Centrální platforma sjednotila proces rekonciliací ve skupině, kde jednotlivé entity používaly rozdílné ERP systémy. HQ a lokální finanční týmy získaly jednotné workflow a transparentní přehled o stavu, vlastnictví a schvalování rekonciliací.",
+        contribution: ["Spolupráce na definování business požadavků za oblast Controllingu a jejich sladění s Data týmem a externími vývojáři", "Koordinace testování a User Acceptance Testing", "Komunikace s Reviewery a Approvery v jednotlivých entitách", "Příprava manuálů a uživatelských školení", "Správa uživatelských přístupů a řešení provozních problémů platformy", "Vyhodnocování a reporting čtvrtletních rekonciliací"],
+        impact: "Centrální platforma sjednotila proces rekonciliací ve skupině, kde jednotlivé entity používaly rozdílné ERP systémy (SAP, Microsoft Dynamics 365 Business Central, lokální ERP systémy RU, KZ a NL). HQ a lokální finanční týmy získaly jednotné workflow a transparentní přehled o stavu, vlastnictví a schvalování rekonciliací.",
         skills: ["R2R", "Reconciliations", "Requirements", "Workflow design", "UAT", "Change management", "Training", "International rollout"], featured: true
       },
       {
         title: "Enterprise FP&A Platform for Budgeting & Forecasting",
         category: "Finanční systémy",
-        status: "Dokončeno",
-        period: "Předchozí společnost",
-        role: "Business owner / Key user lead",
+        status: "Business analysis",
+        period: "2024",
+        role: "Business analyst",
         summary: "Vývoj finanční platformy pro budgeting, forecasting, cost allocation a manažerský reporting.",
         contribution: ["Business návrh řešení a procesů budgetingu a forecastingu", "Definování metodiky interních a externích MD rates", "Návrh alokačního modelu vnitroskupinových služeb", "Definování reportingových požadavků pro skupinu", "Testování, implementace a podpora uživatelů"],
         impact: "Jednotná platforma pro budget, forecast a reporting včetně ACT vs BG vs FC porovnání, plánování výnosů z interních služeb a skupinového manažerského reportingu.",
@@ -91,15 +91,15 @@ const content = {
         skills: ["AI strategy", "Operating model", "Governance", "Prioritization", "Adoption", "Community building"], featured: false
       },
       {
-        title: "Fixed Assets Process Transformation & Operational Registers",
+        title: "Fixed Assets Process Transformation",
         category: "Compliance & Procesy",
-        status: "Probíhá",
+        status: "Process Leadership",
         period: "2026",
         role: "Process transformation lead / Business analyst",
         summary: "Analýza a redesign procesu správy dlouhodobého majetku od jeho nákupu a správné CAPEX/OPEX klasifikace až po evidenci, automatizované vytváření karet majetku a inventarizaci.",
-        contribution: ["Zmapování AS-IS procesu a identifikace hlavních problémových míst", "Analýza typů evidovaného majetku a příprava doporučení na úpravu kapitalizačních limitů", "Návrh operativních registrů pro majetek, který po změně limitů nebude veden v účetní evidenci", "Definování informací a dokumentace požadovaných při nákupu majetku", "Nastavení pravidel pro správnou klasifikaci hmotného a nehmotného majetku a posouzení CAPEX/OPEX", "Návrh automatizace vytváření karet majetku v asset registru", "Návrh procesu inventarizace a propojení účetní a operativní evidence"],
-        impact: "Cílem probíhajícího projektu je vytvořit srozumitelný a auditovatelný proces správy majetku s jasnými vstupními informacemi, správnou CAPEX/OPEX klasifikací, přiměřenými kapitalizačními limity a navazující účetní nebo operativní evidencí. Součástí cílového řešení je automatizované vytváření karet majetku a jednotně nastavený proces inventarizace.",
-        skills: ["Fixed Assets", "Process transformation", "CAPEX/OPEX", "AS-IS / TO-BE", "Operational registers", "Requirements definition", "Automation", "Inventory process"], featured: false
+        contribution: ["Mapování AS-IS procesu a identifikace hlavních problémů a rizik", "Návrh nové RACI matice a rozdělení odpovědností", "Analýza dopadu navrhovaných kapitalizačních limitů na P&L a potenciálních úspor administrativní práce", "Definování standardizovaných vstupních informací a dokumentace pro schvalování faktur", "Návrh pravidel pro klasifikaci CAPEX/OPEX a posuzování majetku", "Optimalizace evidence majetku a propojení účetní a operativní evidence", "Návrh digitalizace formulářů, automatizace kontrol a zefektivnění inventarizace", "Příprava implementační roadmapy a procesní dokumentace"],
+        impact: "Výsledkem je návrh cílového modelu správy dlouhodobého majetku, který řeší hlavní nedostatky současného procesu. Připravené analýzy, návrh kapitalizačních limitů, standardizace vstupních informací a implementační roadmapa vytvářejí základV pro snížení administrativní zátěže, přesnější evidenci a efektivnější inventarizaci majetku",
+        skills: ["Fixed Assets", "Process transformation", "CAPEX/OPEX", "RACI", "Capitalization policy", "Asset management", "Automation", "Inventory process"], featured: false
       }
     ]
   },
@@ -136,42 +136,42 @@ const content = {
       {
         title: "P2P Automation & AI Invoice Processing Transformation",
         category: "Finance Transformation & AI",
-        status: "Phase 1 delivered · Roadmap continues",
+        status: "Project Leadeship",
         period: "2025–2027",
         role: "Transformation lead / Business owner",
         summary: "Modernization and automation of supplier invoice processing, from replacing the OCR solution and introducing data validations to defining a roadmap of further AI and automation initiatives.",
-        contribution: ["Analysis of reporting data and identification of limitations in the original OCR solution", "Decision to replace the OCR provider and preparation of the business case", "Technology selection and coordination of the new AI OCR implementation", "Definition of acceptance criteria, UAT scenarios, and supplier-specific prompting", "Design of validations for VAT IDs, company registration numbers, bank accounts, supplier data, and fraud-control scenarios", "Definition of further P2P automation phases and target metrics"],
-        impact: "The new AI OCR solution was delivered on time and within the planned budget as an essential first step in the broader P2P transformation. The roadmap of follow-up AI and automation initiatives enables continued improvement in data quality and the level of automated invoice processing.",
-        skills: ["P2P", "AI/OCR", "Finance transformation", "Business analysis", "UAT", "Data validation", "Vendor management", "Roadmapping"], featured: true
+        contribution: ["Analysis of reporting data and identification of limitations in the original OCR solution", "Decision to replace the OCR provider and preparation of the business case", "Technology assesment and project management of the implementation, including vendor and internal stakeholder coordination", "Definition of acceptance criteria, UAT scenarios, and supplier-specific prompting", "Design of validations for VAT IDs, company registration numbers, bank accounts, supplier data, and fraud-control scenarios", "Definition of further P2P automation phases and target metrics"],
+        impact: "The successful implementation of the new AI OCR solution was an essential first step towards broader P2P transformation. The roadmap of follow-up AI and automation initiatives enables continued improvement in data quality and the level of automated invoice processing.",
+        skills: ["P2P", "AI/OCR", "Finance transformation", "Business analysis", "UAT", "Data validation", "Vendor management", "Project management", "Roadmapping"], featured: true
       },
       {
         title: "Cash Flow & Order-to-Cash Transformation",
         category: "Finance Transformation",
-        status: "Delivered",
-        period: "Previous company",
+        status: "Process Leadership",
+        period: "2023",
         role: "O2C process lead / Business analyst",
         summary: "Redesign of the O2C process to improve cash flow, accelerate receivables collection, and shorten the period of external financing.",
-        contribution: ["End-to-end analysis of the O2C process and root causes of overdue invoices", "Collection of feedback from customers with recurring issues and identification of internal barriers", "Setup of timely invoice delivery including mandatory supporting documents", "Redesign of collaboration between Accounting and Accounts Receivable", "Design of a segmented collections matrix based on customer and payment behavior", "Automation of reminders in Power Automate", "Power BI reporting for payment discipline, liquidity, and cash-flow outlook"],
-        impact: "Customers received invoices and required documentation on time, improving payment discipline and customer relationships. Stronger cash flow enabled the company to repay a loan several months earlier and reduce interest costs.",
+        contribution: ["End-to-end analysis of the O2C process and root causes of overdue invoices", "Collection of feedback from customers with recurring issues and identification of internal barriers", "Redesign of collaboration between Accounting and Accounts Receivable", "Design of a segmented collections matrix based on customer and payment behavior", "Automation of reminders using Power Automate", "Power BI reporting for payment discipline, liquidity, and cash-flow outlook"],
+        impact: "Changes to the invoicing process and the delivery of supporting documentation helped improve payment discipline and business relationships. Stronger cash flow enabled the company to adjust its approach to external financing and reduce interest costs.",
         skills: ["O2C", "Accounts Receivable", "Cash flow", "Collections", "Power Automate", "Power BI", "Process improvement", "Customer experience"], featured: true
       },
       {
         title: "Global Balance Sheet Reconciliation Platform",
         category: "Financial Systems",
-        status: "Delivered",
-        period: "Previous company",
-        role: "Finance business lead / Process designer",
+        status: "Business Cooperation",
+        period: "2021-2022",
+        role: "Controlling business analyst",
         summary: "Development and implementation of a group-wide platform for managing quarterly balance sheet reconciliations across eight countries and multiple ERP systems.",
-        contribution: ["Workflow design for preparation, review, and approval of balance sheet reconciliations", "Definition of business requirements with the Data team and external developers", "Coordination of testing and User Acceptance Testing", "Communication with reviewers and approvers across entities", "Preparation of user manuals and training", "Post-production support, access management, and monitoring of quarterly progress"],
-        impact: "The central platform standardized the reconciliation process across a group whose entities used different ERP systems. HQ and local finance teams gained a unified workflow and transparent visibility into reconciliation status, ownership, and approvals.",
+        contribution: ["Collaboration on defining business requirements for Controlling and aligning them with the Data team and external developers", "Coordination of testing and User Acceptance Testing", "Communication with reviewers and approvers across entities", "Preparation of user manuals and training", "User access management and resolution of platform-related operational issues", "Evaluation and reporting of quarterly reconciliations"],
+        impact: "The central platform standardized the reconciliation process across a group whose entities used different ERP systems (SAP, Microsoft Dynamics 365 Business Central, local ERP systems in RU, KZ and NL). HQ and local finance teams gained a unified workflow and transparent visibility into reconciliation status, ownership, and approvals.",
         skills: ["R2R", "Reconciliations", "Requirements", "Workflow design", "UAT", "Change management", "Training", "International rollout"], featured: true
       },
       {
         title: "Enterprise FP&A Platform for Budgeting & Forecasting",
         category: "Financial Systems",
-        status: "Delivered",
-        period: "Previous company",
-        role: "Business owner / Key user lead",
+        status: "Business analysis",
+        period: "2024",
+        role: "Business analyst",
         summary: "Development of a finance platform for budgeting, forecasting, cost allocation, and management reporting.",
         contribution: ["Business design of the solution and budgeting and forecasting processes", "Definition of methodology for internal and external MD rates", "Design of an allocation model for intercompany services", "Definition of group reporting requirements", "Testing, implementation, and user support"],
         impact: "A unified platform for budgeting, forecasting, and reporting, including ACT vs BG vs FC comparisons, planning of revenue from internal services, and group management reporting.",
@@ -189,15 +189,15 @@ const content = {
         skills: ["AI strategy", "Operating model", "Governance", "Prioritization", "Adoption", "Community building"], featured: false
       },
       {
-        title: "Fixed Assets Process Transformation & Operational Registers",
+        title: "Fixed Assets Process Transformation",
         category: "Compliance & Process",
-        status: "In Progress",
+        status: "Process Leadership",
         period: "2026",
         role: "Process transformation lead / Business analyst",
         summary: "Analysis and redesign of the fixed-assets management process, from purchasing and correct CAPEX/OPEX classification to registration, automated asset-card creation, and physical inventory.",
-        contribution: ["Mapping of the AS-IS process and identification of key problem areas", "Analysis of asset types and preparation of recommendations for revised capitalization thresholds", "Design of operational registers for assets that will no longer be recorded in the accounting register after the threshold change", "Definition of information and documentation required when purchasing assets", "Definition of rules for the correct classification of tangible and intangible assets and CAPEX/OPEX assessment", "Design of automated asset-card creation in the asset register", "Design of the physical-inventory process and linkage between accounting and operational records"],
-        impact: "The ongoing project aims to establish a clear and auditable asset-management process with defined input information, correct CAPEX/OPEX classification, appropriate capitalization thresholds, and connected accounting or operational records. The target solution also includes automated asset-card creation and a standardized physical-inventory process.",
-        skills: ["Fixed Assets", "Process transformation", "CAPEX/OPEX", "AS-IS / TO-BE", "Operational registers", "Requirements definition", "Automation", "Inventory process"], featured: false
+        contribution: ["AS-IS process mapping and identification of ksey issues and risk", "Design of a new RACI matrix and accountability framework", "Analysis of proposed capitalization threshold changes, P&L impact and potential administrative workload savings", "Definition of standardized input information and supporting documentation for invoice approval", "Design of CAPEX/OPEX classification rules and asset assessment criteria", "Optimization of asset records and integration of financial and operational data", "Proposal for digital forms, automated controls and more efficient inventory processes", "Preparation of the implementation roadmap and process documentation"],
+        impact: "The project delivered a proposed target operating model for fixed asset management, addressing the key weaknesses of the existing process. The analyses, proposed capitalization thresholds, standardized input requirements and implementation roadmap provide a foundation for reducing administrative workload, improving asset records and increasing inventory efficiency",
+        skills: ["Fixed Assets", "Process transformation", "CAPEX/OPEX", "RACI", "Capitalization policy", "Asset management", "Automation", "Inventory process"], featured: false
       }
     ]
   }
