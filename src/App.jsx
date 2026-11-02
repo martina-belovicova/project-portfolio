@@ -71,7 +71,7 @@ const content = {
       {
         title: "Enterprise FP&A Platform for Budgeting & Forecasting",
         category: "Finanční systémy",
-        status: "Business analysis",
+        status: "Business Analysis",
         period: "2024",
         role: "Business analyst",
         summary: "Vývoj finanční platformy pro budgeting, forecasting, cost allocation a manažerský reporting.",
@@ -96,7 +96,7 @@ const content = {
         status: "Process Leadership",
         period: "2026",
         role: "Process transformation lead / Business analyst",
-        summary: "Analýza a redesign procesu správy dlouhodobého majetku od jeho nákupu a správné CAPEX/OPEX klasifikace až po evidenci, automatizované vytváření karet majetku a inventarizaci.",
+        summary: "Komplexní transformace procesu správy dlouhodobého majetku zaměřená na jasné rozdělení odpovědností, standardizaci vstupních informací, optimalizaci CAPEX/OPEX klasifikace, revizi kapitalizačních limitů a zefektivnění evidence a inventarizace majetku. Součástí návrhu je také automatizace kontrol a propojení účetní a operativní evidence.",
         contribution: ["Mapování AS-IS procesu a identifikace hlavních problémů a rizik", "Návrh nové RACI matice a rozdělení odpovědností", "Analýza dopadu navrhovaných kapitalizačních limitů na P&L a potenciálních úspor administrativní práce", "Definování standardizovaných vstupních informací a dokumentace pro schvalování faktur", "Návrh pravidel pro klasifikaci CAPEX/OPEX a posuzování majetku", "Optimalizace evidence majetku a propojení účetní a operativní evidence", "Návrh digitalizace formulářů, automatizace kontrol a zefektivnění inventarizace", "Příprava implementační roadmapy a procesní dokumentace"],
         impact: "Výsledkem je návrh cílového modelu správy dlouhodobého majetku, který řeší hlavní nedostatky současného procesu. Připravené analýzy, návrh kapitalizačních limitů, standardizace vstupních informací a implementační roadmapa vytvářejí základV pro snížení administrativní zátěže, přesnější evidenci a efektivnější inventarizaci majetku",
         skills: ["Fixed Assets", "Process transformation", "CAPEX/OPEX", "RACI", "Capitalization policy", "Asset management", "Automation", "Inventory process"], featured: false
@@ -169,7 +169,7 @@ const content = {
       {
         title: "Enterprise FP&A Platform for Budgeting & Forecasting",
         category: "Financial Systems",
-        status: "Business analysis",
+        status: "Business Analysis",
         period: "2024",
         role: "Business analyst",
         summary: "Development of a finance platform for budgeting, forecasting, cost allocation, and management reporting.",
@@ -194,7 +194,7 @@ const content = {
         status: "Process Leadership",
         period: "2026",
         role: "Process transformation lead / Business analyst",
-        summary: "Analysis and redesign of the fixed-assets management process, from purchasing and correct CAPEX/OPEX classification to registration, automated asset-card creation, and physical inventory.",
+        summary: "Comprehensive transformation of the fixed asset management process, focusing on clear accountability, standardized input information, CAPEX/OPEX classification, capitalization threshold review and more efficient asset records and inventory management. The proposed changes also include automated controls and integration of financial and operational asset records.",
         contribution: ["AS-IS process mapping and identification of ksey issues and risk", "Design of a new RACI matrix and accountability framework", "Analysis of proposed capitalization threshold changes, P&L impact and potential administrative workload savings", "Definition of standardized input information and supporting documentation for invoice approval", "Design of CAPEX/OPEX classification rules and asset assessment criteria", "Optimization of asset records and integration of financial and operational data", "Proposal for digital forms, automated controls and more efficient inventory processes", "Preparation of the implementation roadmap and process documentation"],
         impact: "The project delivered a proposed target operating model for fixed asset management, addressing the key weaknesses of the existing process. The analyses, proposed capitalization thresholds, standardized input requirements and implementation roadmap provide a foundation for reducing administrative workload, improving asset records and increasing inventory efficiency",
         skills: ["Fixed Assets", "Process transformation", "CAPEX/OPEX", "RACI", "Capitalization policy", "Asset management", "Automation", "Inventory process"], featured: false
