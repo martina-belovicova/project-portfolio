@@ -22,7 +22,7 @@ const content = {
     methods: [
       ["APQC", "Strukturování a standardizace podnikových procesů podle uznávaného procesního rámce."],
       ["BPMN", "Vizualizace procesních toků, rozhodovacích bodů, rolí a odpovědností v Miro a Lucidchart."],
-      ["Lean Six Sigma", "Identifikace plýtvání, příčin problémů a příležitostí ke zjednodušení procesů."],
+      ["Lean Six Sigma", "Identifikace neefektivit a kořenových příčin problémů, zjednodušování procesů a návrh efektivnějších procesních řešení."],
       ["PRINCE2", "Řízení procesních změn, rolí, rizik, průběžného vyhodnocování a Lessons Learned."]
     ],
     selected: "Vybrané projekty",
@@ -53,7 +53,7 @@ const content = {
         period: "2023",
         role: "O2C process lead / Business analyst",
         summary: "Redesign O2C procesu vedoucí ke zlepšení cash flow, zrychlení inkasa pohledávek a zkrácení období externího financování.",
-        contribution: ["End-to-end analýza O2C procesu a příčin faktur po splatnosti", "Získání zpětné vazby od problémových zákazníků a identifikace interních překážek", "Redesign spolupráce mezi účtárnou a Accounts Receivable", "Návrh segmentované collections matice podle zákazníka a platebního chování", "Automatizace upomínek pomocí Power Automate", "Power BI reporting platební disciplíny, likvidity a cash-flow výhledu"],
+        contribution: ["End-to-end analýza O2C procesu a příčin pohledávek po splatnosti", "Analýza zákaznických a interních procesních bariér, identifikace příležitostí ke zlepšení procesů a spolupráce se zákazníky", "Redesign a optimalizace interních procesů", "Návrh segmentované collections matice podle zákazníka a platebního chování", "Automatizace upomínek pomocí Power Automate", "Power BI reporting platební disciplíny, likvidity a cash-flow výhledu"],
         impact: "Změna procesu vystavování faktur a zasílání potřebné dokumentace přispěla ke zlepšení platební disciplíny i obchodních vztahů. Díky silnějšímu cash flow mohla společnost změnit přístup k externímu financování a snížit úrokové náklady.",
         skills: ["O2C", "Accounts Receivable", "Cash flow", "Collections", "Power Automate", "Power BI", "Process improvement", "Customer experience"], featured: true
       },
@@ -120,7 +120,7 @@ const content = {
     methods: [
       ["APQC", "Structuring and standardizing business processes using a recognized process framework."],
       ["BPMN", "Visualizing process flows, decision points, roles, and responsibilities in Miro and Lucidchart."],
-      ["Lean Six Sigma", "Identifying waste, root causes, and opportunities to simplify and improve processes."],
+      ["Lean Six Sigma", "Identifying inefficiencies and root causes of problems, streamlining processes, and designing more effective process solutions."],
       ["PRINCE2", "Managing process changes, roles, risks, ongoing evaluation, and lessons learned."]
     ],
     selected: "Selected projects",
@@ -151,7 +151,7 @@ const content = {
         period: "2023",
         role: "O2C process lead / Business analyst",
         summary: "Redesign of the O2C process to improve cash flow, accelerate receivables collection, and shorten the period of external financing.",
-        contribution: ["End-to-end analysis of the O2C process and root causes of overdue invoices", "Collection of feedback from customers with recurring issues and identification of internal barriers", "Redesign of collaboration between Accounting and Accounts Receivable", "Design of a segmented collections matrix based on customer and payment behavior", "Automation of reminders using Power Automate", "Power BI reporting for payment discipline, liquidity, and cash-flow outlook"],
+        contribution: ["End-to-end analysis of the O2C process and root causes of overdue receivables", "Analysis of customer-related and internal process barriers, identifying opportunities to improve processes and customer collaboration.", "Redesign and optimization of internal processes", "Design of a segmented collections matrix based on customer and payment behavior", "Automation of reminders using Power Automate", "Power BI reporting for payment discipline, liquidity, and cash-flow outlook"],
         impact: "Changes to the invoicing process and the delivery of supporting documentation helped improve payment discipline and business relationships. Stronger cash flow enabled the company to adjust its approach to external financing and reduce interest costs.",
         skills: ["O2C", "Accounts Receivable", "Cash flow", "Collections", "Power Automate", "Power BI", "Process improvement", "Customer experience"], featured: true
       },
